@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:5000/api";
+const BASE_URL = "https://money-manager-backend-vqi8.onrender.com/api";
 
 // Get all accounts
 export const getAccounts = async () => {
